@@ -32,7 +32,7 @@ public class Example extends HttpServlet {
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		String user="asds";
+		String user="jsdfgjdh";
 		System.out.println(user);
 	}
 
